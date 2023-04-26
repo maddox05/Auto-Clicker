@@ -7,14 +7,12 @@ import keyboard
 import mouse
 
 
-
-
 def gethotkey():
     # get ur hotkey
     return "7+8+9"
 
 
-class autoclick:
+class AutoClick:
     def __init__(self, hotkey):
 
         self.hotkey = hotkey
@@ -53,11 +51,9 @@ class autoclick:
 
 
 if __name__ == '__main__':
-    new = autoclick(gethotkey())
+    new = AutoClick(gethotkey())
     thread1 = threading.Thread(target=new.mainloop)
     thread2 = threading.Thread(target=gethotkey)
     thread1.start()
     thread2.start()
     tkinterloop()
-
-
