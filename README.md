@@ -11,7 +11,7 @@ Maddox's Auto Clicker is a simple auto clicker application written in Python. It
 - keyboard
 - tkinter
 ## Installation
-- When the macos build is complete ill update the Installation 
+- When the macos build is complete Installation will be updated
 ## Usage
 - Launch the application and set the time interval for the auto clicker in the text box.
 - Press the "Enable AutoClicker" button to start the auto clicker.
