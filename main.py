@@ -13,7 +13,7 @@ def OperatingSystem():
 
 def gethotkey():
     # get ur hotkey
-    return "7+8+9"
+    return "Ctrl+Alt+A"
 
 
 class windowslp:
