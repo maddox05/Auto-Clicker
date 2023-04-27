@@ -7,7 +7,7 @@ Maddox's Auto Clicker is a simple auto clicker application written in Python. It
 - Can be run in the background
 ## Dependencies
 - Python 3.x
-- pywin32 (Windows only)
+- mouse
 - keyboard
 - tkinter
 ## Installation
