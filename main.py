@@ -31,13 +31,10 @@ def mainloop():
                     for i in range(int(getentry())):
                         print(i)
                         time.sleep(1)
-                        print(global_boolean, "has been printed")
                         if global_boolean:
-                            print(global_boolean, "boolean is true")
                             global_boolean = False
                             break
                         else:
-                            print(global_boolean, "boolean is false")
                             pass
 
                     mouse.click(button="left")
@@ -61,7 +58,6 @@ def time_change_checker():
         time.sleep(3)
         if current_sleep_time != getentry():
             global_boolean = True
-            print("Click time has changed")
 
 
 if __name__ == '__main__':
