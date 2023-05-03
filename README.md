@@ -1,7 +1,7 @@
 # Maddox's Auto Clicker
 Maddox's Auto Clicker is a simple auto clicker application written in Python. It allows the user to automate mouse clicks at a specified time interval.
 ## Features
-- Works on Windows and macOS
+- Works on Windows
 - Allows the user to specify a custom hotkey to start and stop the auto clicker
 - Displays a GUI interface for easy use
 - Can be run in the background
@@ -11,7 +11,7 @@ Maddox's Auto Clicker is a simple auto clicker application written in Python. It
 - keyboard
 - tkinter
 ## Installation
-- When the macos build is complete Installation will be updated
+- Release will be done soon
 ## Usage
 - Launch the application and set the time interval for the auto clicker in the text box.
 - Press the "Enable AutoClicker" button to start the auto clicker.
