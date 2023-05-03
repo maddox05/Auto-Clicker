@@ -26,7 +26,6 @@ def mainloop():
     while True:
         if buttons1.ONOFF.get() == 1:
             try:
-                print(float(getentry()))
                 if float(getentry()) > 5.0:
                     for i in range(int(getentry())):
                         print(i)
@@ -34,9 +33,6 @@ def mainloop():
                         if global_boolean:
                             global_boolean = False
                             break
-                        else:
-                            pass
-
                     mouse.click(button="left")
                     time.sleep(0.05)
                 else:
@@ -54,8 +50,9 @@ def mainloop():
 def time_change_checker():
     global global_boolean
     while True:
-        current_sleep_time = getentry()
         time.sleep(3)
+        current_sleep_time = getentry()
+        time.sleep(1)
         if current_sleep_time != getentry():
             global_boolean = True
 
