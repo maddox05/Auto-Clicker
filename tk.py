@@ -17,7 +17,9 @@ class buttons1:
     switch = Checkbutton(root, text='Enable AutoClicker (time in s)', variable=ONOFF, onvalue=1, offvalue=0)
     switch.select()
     ONOFF.set(0)
+
     entry = Entry(root, width=30, bg="lightgray")
+
 
 
 def placeb():
