@@ -20,4 +20,4 @@ Maddox's Auto Clicker is a simple auto clicker application written in Python. It
 ## Contributing
 - Contributions are welcome! If you find any bugs or issues, please open a new issue or pull request.
 ## License
-- This project is licensed under the MIT License - see the LICENSE file for details.
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
