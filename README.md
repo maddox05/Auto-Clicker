@@ -1,10 +1,10 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
 </div>
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to "Maddox's Auto Clicker" 🖱️</h1>
+  <h1 align="center">Hi <img src="" width="30px">, Welcome to "Maddox's Auto Clicker" 🖱️</h1>
  
 
-<div align="center"><img  src="https://assets.grooveapps.com/images/5ee53eab66e30100140a5239/1657607474_autoclicker.gif" width="230" height="230"></div>
+<div align="center"><img  src="" width="230" height="230"></div>
 
 
 
